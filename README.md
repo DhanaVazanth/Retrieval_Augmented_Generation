@@ -39,15 +39,29 @@ Welcome to **Augmented Generation with LLMs**, a curated collection of interacti
 
 ---
 
-
-<p align="right">
-  <img src="https://crosslabcollab.wordpress.com/wp-content/uploads/2014/03/tumblr_n2mbj6nw821qkjjfoo1_400.gif" width="200"/>
-</p>
-
-
 ## 🛠️ Tech Stack
 
+<table>
+<tr>
+<td>
+
 | Tech / Tool        | Purpose |
+|--------------------|---------|
+| **LLMs**           | Generative responses |
+| **LangChain**      | Chaining prompts, memory, and tools |
+| **Ollama**         | Lightweight local LLMs |
+| **Vector DB**      | Fast document retrieval |
+| **Embeddings**     | Semantic search capability |
+| **Pickling**       | Output caching |
+| **Cache Memory**   | Efficient reuse of responses |
+| **Jupyter Notebook** | Interactive development |
+
+</td>
+<td>
+<img src="https://crosslabcollab.wordpress.com/wp-content/uploads/2014/03/tumblr_n2mbj6nw821qkjjfoo1_400.gif" width="250"/>
+</td>
+</tr>
+</table>
 |--------------------|---------|
 | **LLMs**           | Generative responses |
 | **LangChain**      | Chaining prompts, memory, and tools |
@@ -77,7 +91,7 @@ Welcome to **Augmented Generation with LLMs**, a curated collection of interacti
 
 ## 🧭 How to Run
 
-1. Open any notebook in Google Colab.[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+1. Open any notebook in Google Colab [![Colab](https://colab.research.google.com/assets/colab-badge.svg)] /Jupyter Notebook [![Jupyter](https://escape2020.github.io/school2022/img/Jupyter-logo.png)]. 
 2. Follow the instructions in each cell.
 3. Make sure you have the required models via **Ollama** and libraries installed (`langchain`, `faiss-cpu`, etc.)
 
