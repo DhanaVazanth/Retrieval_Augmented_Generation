@@ -1,8 +1,8 @@
+![LLM Augmented Generation](https://marcabraham.com/wp-content/uploads/2024/03/raga-retrieval-augmented-generation-and-actions.png?w=1024)
+
 # 🚀 Augmented Generation Experiments with LLMs
 
 Welcome to **Augmented Generation with LLMs**, a curated collection of interactive Colab notebooks exploring different approaches to enhance Large Language Model (LLM) outputs through context, cache, and retrieval-based techniques. Built using **LangChain**, **Ollama**, **Vector Databases**, and more, this repo demonstrates powerful patterns to improve LLM performance and memory capabilities.
-
-![LLM Augmented Generation](https://marcabraham.com/wp-content/uploads/2024/03/raga-retrieval-augmented-generation-and-actions.png?w=1024)
 
 ---
 
@@ -26,7 +26,6 @@ Welcome to **Augmented Generation with LLMs**, a curated collection of interacti
   - Context-based generation pipeline
 - 📚 Boosts response richness and continuity.
 
-![Context Augmentation](https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif)
 
 ---
 
@@ -39,6 +38,8 @@ Welcome to **Augmented Generation with LLMs**, a curated collection of interacti
 - 🔎 Perfect for knowledge-based systems and document Q&A.
 
 ---
+
+![Tech](https://png.pngtree.com/png-clipart/20240504/original/pngtree-futuristic-brain-hologram-png-image_15007528.png)
 
 ## 🛠️ Tech Stack
 
@@ -72,8 +73,7 @@ Welcome to **Augmented Generation with LLMs**, a curated collection of interacti
 
 ## 🧭 How to Run
 
-1. Open any notebook in Google Colab.[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/your-repo/blob/main/my_notebook.ipynb)
-
+1. Open any notebook in Google Colab.[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
 2. Follow the instructions in each cell.
 3. Make sure you have the required models via **Ollama** and libraries installed (`langchain`, `faiss-cpu`, etc.)
 
