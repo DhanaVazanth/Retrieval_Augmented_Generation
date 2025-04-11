@@ -72,7 +72,8 @@ Welcome to **Augmented Generation with LLMs**, a curated collection of interacti
 
 ## 🧭 How to Run
 
-1. Open any notebook in Google Colab.
+1. Open any notebook in Google Colab.[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/your-repo/blob/main/my_notebook.ipynb)
+
 2. Follow the instructions in each cell.
 3. Make sure you have the required models via **Ollama** and libraries installed (`langchain`, `faiss-cpu`, etc.)
 
