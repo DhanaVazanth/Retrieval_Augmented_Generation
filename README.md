@@ -55,7 +55,6 @@ Welcome to **Augmented Generation with LLMs**, a curated collection of interacti
 | **Jupyter Notebook** | Interactive development |
 
 
-
 ---
 
 ## 📸 Screenshots
@@ -75,7 +74,7 @@ Welcome to **Augmented Generation with LLMs**, a curated collection of interacti
 
 ## 🧭 How to Run
 
-1. Open any notebook in Google Colab ![Colab](https://colab.research.google.com/assets/colab-badge.svg) /Jupyter Notebook ![Jupyter](https://cdn.simpleicons.org/jupyter/F37626). 
+1. Open any notebook in Jupyter Notebook or Google Colab ![Colab](https://colab.research.google.com/assets/colab-badge.svg). 
 2. Follow the instructions in each cell.
 3. Make sure you have the required models via **Ollama** and libraries installed (`langchain`, `faiss-cpu`, etc.)
 
