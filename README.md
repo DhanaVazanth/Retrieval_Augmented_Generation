@@ -39,7 +39,11 @@ Welcome to **Augmented Generation with LLMs**, a curated collection of interacti
 
 ---
 
-![Tech](https://png.pngtree.com/png-clipart/20240504/original/pngtree-futuristic-brain-hologram-png-image_15007528.png)
+
+<p align="right">
+  <img src="https://crosslabcollab.wordpress.com/wp-content/uploads/2014/03/tumblr_n2mbj6nw821qkjjfoo1_400.gif" width="200"/>
+</p>
+
 
 ## 🛠️ Tech Stack
 
