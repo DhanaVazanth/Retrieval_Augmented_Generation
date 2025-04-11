@@ -2,7 +2,7 @@
 
 Welcome to **Augmented Generation with LLMs**, a curated collection of interactive Colab notebooks exploring different approaches to enhance Large Language Model (LLM) outputs through context, cache, and retrieval-based techniques. Built using **LangChain**, **Ollama**, **Vector Databases**, and more, this repo demonstrates powerful patterns to improve LLM performance and memory capabilities.
 
-![LLM Augmented Generation](https://media.giphy.com/media/kaBU6pgv0OsPHz2yxy/giphy.gif)
+![LLM Augmented Generation](https://marcabraham.com/wp-content/uploads/2024/03/raga-retrieval-augmented-generation-and-actions.png?w=1024)
 
 ---
 
