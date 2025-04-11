@@ -53,7 +53,7 @@ Welcome to **Augmented Generation with LLMs**, a curated collection of interacti
 | **Cache Memory**   | Efficient reuse of responses |
 | **Jupyter Notebook** | Interactive development |
 
-<img src="https://crosslabcollab.wordpress.com/wp-content/uploads/2014/03/tumblr_n2mbj6nw821qkjjfoo1_400.gif" width="250"/>
+<img align="right" alt="Coding" width="300" src="https://crosslabcollab.wordpress.com/wp-content/uploads/2014/03/tumblr_n2mbj6nw821qkjjfoo1_400.gif">
 
 ---
 
